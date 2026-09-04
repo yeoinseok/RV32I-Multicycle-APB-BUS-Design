@@ -10,9 +10,18 @@
 **팀 구성:** 4인 팀 프로젝트  
 **담당 업무:** FND/UART Peripheral 모듈 설계 및 Manager 모듈과의 데이터 송수신 인터페이스 통합
 
-## 🎬 동작 영상
+## YouTube Demo
 
-[![동작 영상](https://img.youtube.com/vi/cMzEAEq0Hs8/0.jpg)](https://youtu.be/cMzEAEq0Hs8)
+아래 이미지를 클릭하면 YouTube 데모 영상으로 이동합니다.
+<a href="https://youtu.be/cMzEAEq0Hs8">
+  <img src="https://img.shields.io/badge/YouTube-Demo%20Video-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Demo Video" />
+</a>
+
+<p align="center">
+  <a href="https://youtu.be/cMzEAEq0Hs8">
+    <img src="https://img.youtube.com/vi/cMzEAEq0Hs8/hqdefault.jpg" alt="RV32I Multicycle APB Bus 동작 영상 썸네일" width="720" />
+  </a>
+</p>
 
 ## 🎯 주요 기능
 
